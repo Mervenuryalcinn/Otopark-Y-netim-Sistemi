@@ -1,6 +1,6 @@
 # OTOPARK-YÖNETİM-SİSTEMİ
 
-# Projeye Ekip Arkadşım
+# Projeye Ekip Arkadaşım
 Melek Oral
 Github linki:
 https://github.com/1220505054
