@@ -48,6 +48,8 @@ Strategy: Araçların parkta kaldıkları süreyi dinamik olarak hesaplar.
 
 Factory: Araç ekleme işlemleri.
 
+Templared:İki farklı ödeme seçenği sunmasını sağlıyor.
+
 # Kullanılan Teknolojiler
 
 Programlama Dili: Java
