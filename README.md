@@ -46,7 +46,7 @@ Observer: Kullanıcılara güncellemelerle ilgili bildirim veya mesaj gönderir.
 
 Strategy: Araçların parkta kaldıkları süreyi dinamik olarak hesaplar.
 
-Factory: Araç ekleme işlemleri.
+Factory: Araç türlerini ve araç bilgilerini tutar.
 
 Templared:İki farklı ödeme seçenği sunmasını sağlıyor.
 
