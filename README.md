@@ -48,7 +48,7 @@ Strategy: Araçların parkta kaldıkları süreyi dinamik olarak hesaplar.
 
 Factory: Araç türlerini ve araç bilgilerini tutar.
 
-Templared:İki farklı ödeme seçenği sunmasını sağlıyor.
+Template:İki farklı ödeme seçenği sunmasını sağlıyor.
 
 # Kullanılan Teknolojiler
 
