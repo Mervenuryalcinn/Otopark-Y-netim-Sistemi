@@ -58,5 +58,5 @@ IDE: IntelliJ IDEA
 
 Veritabanı: MySQL
 
-UI Framework:GUI
+UI Framework:JavaFX
 
