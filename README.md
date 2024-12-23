@@ -6,7 +6,7 @@ Github linki:
 https://github.com/1220505054
 # Genel Bakış
 
-Otopark Yönetim Sistemi, IntelliJ IDEA kullanılarak Java dilinde geliştirilmiş ve MySQL ile veritabanı yönetimi yapan bir uygulamadır. Sistem, yöneticiler ve kullanıcılar için otopark işleyişini yönetmekte, yedi farklı tasarım deseni uygulayarak güçlü bir yapı sunmaktadır. Uygulama, kullanıcı kaydı, giriş, araç yönetimi, park süre takibi ve ödeme işlemleri gibi özellikler sağlar.
+Otopark Yönetim Sistemi, IntelliJ IDEA kullanılarak Java dilinde geliştirilmiş ve MySQL ile veritabanı yönetimi yapan bir uygulamadır. Sistem, yöneticiler ve kullanıcılar için otopark işleyişini yönetmekte, altı farklı tasarım deseni uygulayarak güçlü bir yapı sunmaktadır. Uygulama, kullanıcı kaydı, giriş, araç yönetimi, park süre takibi ve ödeme işlemleri gibi özellikler sağlar.
 
 # Özellikler
 
